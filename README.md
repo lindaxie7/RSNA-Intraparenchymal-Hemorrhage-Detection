@@ -15,6 +15,7 @@ https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 - Originally dataset was downloaded from Kaggle; it has intraparenchymal, subarachnoid, subdural, intraventricular, epidural, any, 6 types of hemorrhage, number of labeled images for each type is 752,807.   The number of labels exceeds the actual number of images, because one patient being labeled in one group, may also have been applied in another group.
 
 - Processed 1000 Intraparenchymal  positive images and 1000 negative images for Auto-ML with explainability
+
 Also processed 3000 Intraparenchymal  positive images  and 3000 negative images, 6000 in total and run autoML without explainability
 
 -  Originally dicom file contain metadata and image pixel array; the goal is to extra the metadata and save them into a CSV file, and convert the dicom files into png files; 
@@ -27,11 +28,14 @@ Also processed 3000 Intraparenchymal  positive images  and 3000 negative images,
 <img width="457" alt="Capture2" src="https://user-images.githubusercontent.com/38533045/232234569-090bd440-fe0f-4ae2-9a7b-7b13ec6a3b9d.PNG">
 
 
+- 3 channel image ready for autoML
+
+
 
 ### Auto ML performance
 <img width="415" alt="Capture3" src="https://user-images.githubusercontent.com/38533045/232234571-810a069c-0f73-41d7-a550-8210b5bdf689.PNG">
 
-<img width="389" alt="Capture4" src="https://user-images.githubusercontent.com/38533045/232234572-be16a0d2-7532-4a96-b70d-6b32487b32c5.PNG">
+
 
 
 ### Technologies 
