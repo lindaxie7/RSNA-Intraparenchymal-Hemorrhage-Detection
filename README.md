@@ -20,18 +20,18 @@ Also processed 3000 Intraparenchymal  positive images  and 3000 negative images,
 -  Originally dicom file contain metadata and image pixel array; the goal is to extra the metadata and save them into a CSV file, and convert the dicom files into png files; 
 
 - Save metadata into a CSV file
-
+<img width="503" alt="Capture" src="https://user-images.githubusercontent.com/38533045/232234567-b4b65e6c-9a77-43b6-8199-59edb3567928.PNG">
 
 
 - Image Preprocessing:  .dcm -> 3 window -> combined 3 channel .png
-
+<img width="457" alt="Capture2" src="https://user-images.githubusercontent.com/38533045/232234569-090bd440-fe0f-4ae2-9a7b-7b13ec6a3b9d.PNG">
 
 
 
 ### Auto ML performance
+<img width="415" alt="Capture3" src="https://user-images.githubusercontent.com/38533045/232234571-810a069c-0f73-41d7-a550-8210b5bdf689.PNG">
 
-
-
+<img width="389" alt="Capture4" src="https://user-images.githubusercontent.com/38533045/232234572-be16a0d2-7532-4a96-b70d-6b32487b32c5.PNG">
 
 
 ### Technologies 
