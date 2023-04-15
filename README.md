@@ -33,7 +33,7 @@ Also processed 3000 Intraparenchymal  positive images  and 3000 negative images,
 
 
 ### Auto ML performance
-<img width="454" alt="Capture9" src="https://user-images.githubusercontent.com/38533045/232235330-adc2a6c0-7b92-416b-81e9-1305006162dd.PNG">
+
 
 
 
