@@ -29,7 +29,8 @@ Also processed 3000 Intraparenchymal  positive images  and 3000 negative images,
 
 
 - 3 channel image ready for autoML
-<img width="408" alt="Capture8" src="https://user-images.githubusercontent.com/38533045/232235329-db560926-09a4-41d4-a6a1-bee0b2d97859.PNG">
+
+<img width="454" alt="Capture9" src="https://user-images.githubusercontent.com/38533045/232235482-590443d2-7a2f-447f-87d3-7861652b2efc.PNG">
 
 
 ### Auto ML performance
