@@ -1,5 +1,5 @@
 # RSNA-Intraparenchymal-Hemorrhage-Detection
-## [Data Preprocessing Code](https://github.com/lindaxie7/NYC-CitiBike-Analysis/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb)
+## [Data Preprocessing Code](https://github.com/lindaxie7/RSNA-Intraparenchymal-Hemorrhage-Detection/blob/main/DCM_TO_PNG-intraparenchymal%20hemorrhage_negative-3%20channels_green%20color_.ipynb)
 
 ## Overview of Project
 Create a rapid, cloud-based, deployable ML method to detect ICH potentially across the hospital enterprise to help patients and clinical teams.
