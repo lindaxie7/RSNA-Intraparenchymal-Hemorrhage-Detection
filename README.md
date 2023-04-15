@@ -38,6 +38,17 @@ Also processed 3000 Intraparenchymal  positive images  and 3000 negative images,
 
 
 
-### Technologies 
+### Packages/Technologies 
+Google cloud storage fuse
+numpy
+pandas
+listdir
+openCV
+matplotlib
+pydicom
+Google Cloud Auto ML
+
+
+
 
 
