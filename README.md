@@ -5,7 +5,7 @@
 Create a rapid, cloud-based, deployable ML method to detect ICH potentially across the hospital enterprise to help patients and clinical teams.
 
 
-### The data we are working with:
+### Dataset
 https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 
 
